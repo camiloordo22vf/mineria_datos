@@ -5,12 +5,12 @@
 * Quién es el cliente, en que industria está *(puede ser un equipo interno de la propia empresa)*
 
 ## Alcance del proyecto
-* Qué va a hacer el equipo de Data Science
+* Qué va a hacer el equipo de Mineria de datos
 * Como se va a entregar el resultado del proyecto al cliente
 
 ## Personas involucradas
 * Que personas están involucradas en el proyecto.:
-	* Equipo Data Science:
+	* Equipo Mineria de datos:
 		* Jefe de proyecto
 		* Data scientist(s)
 	
