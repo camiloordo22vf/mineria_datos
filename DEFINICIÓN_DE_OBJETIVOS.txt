@@ -12,7 +12,7 @@
 * Que personas están involucradas en el proyecto:
 	* Equipo Data Mineria de datos:
 		* Jefe de proyecto
-		* Data scientist(s)
+		* Minero de datos
 	
 	* Cliente:
 		* Contacto principal
